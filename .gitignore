@@ -1,0 +1,15 @@
+
+# composer
+/vendor
+
+
+# phpstorm
+/.idea
+
+
+# Log Files
+*.log
+
+#test
+cmd.bat
+test.php
